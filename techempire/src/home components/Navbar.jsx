@@ -3,8 +3,8 @@ import React from "react";
 function Navbar() {
   return (
     <div className="navbar">
-      <div className="flex flex-row  justify-around">
-        <h1 className=" text-gray-700 text-[10px] font-extrabold mt-5">
+      <div className="flex flex-row  justify-between items-center">
+        <h1 className=" text-gray-700 text-[10px] font-extrabold">
           LAKMAL C. BUDDHIMA
         </h1>
         <div className="flex justify-between gap-x-10 text-lg my-2 ml-40 ">

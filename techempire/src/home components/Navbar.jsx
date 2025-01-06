@@ -14,9 +14,7 @@ function Navbar() {
         </div>
       </div>
       <hr />
-      <h1 className="text-custom-purple font-extrabold text-[110px]">
-        TECH EMPIRE
-      </h1>
+      <h1 className="text-gray-600 font-extrabold text-[110px]">TECH EMPIRE</h1>
       <h2 className="ml-5 -mt-6 text-gray-500">Review features in softwares</h2>
       <hr />
     </div>
